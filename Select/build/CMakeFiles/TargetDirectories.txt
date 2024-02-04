@@ -1,0 +1,8 @@
+/home/banli/Desktop/code/c++/Select/build/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/Select/build/CMakeFiles/rebuild_cache.dir
+/home/banli/Desktop/code/c++/Select/build/client/CMakeFiles/client.dir
+/home/banli/Desktop/code/c++/Select/build/client/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/Select/build/client/CMakeFiles/rebuild_cache.dir
+/home/banli/Desktop/code/c++/Select/build/server/CMakeFiles/server.dir
+/home/banli/Desktop/code/c++/Select/build/server/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/Select/build/server/CMakeFiles/rebuild_cache.dir

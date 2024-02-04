@@ -1,0 +1,8 @@
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/CMakeFiles/rebuild_cache.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/client/CMakeFiles/client.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/client/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/client/CMakeFiles/rebuild_cache.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/server/CMakeFiles/server.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/server/CMakeFiles/edit_cache.dir
+/home/banli/Desktop/code/c++/NetSample_Select_by_pthread/build/server/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/banli/Desktop/code/c++/NetSample_Select_by_pthreadPool/lib/libMyThreadPoolLib.a CMakeFiles/MyThreadPoolLib.dir/ThreadPool.cpp.o CMakeFiles/MyThreadPoolLib.dir/taskQueue.cpp.o
+/usr/bin/ranlib /home/banli/Desktop/code/c++/NetSample_Select_by_pthreadPool/lib/libMyThreadPoolLib.a

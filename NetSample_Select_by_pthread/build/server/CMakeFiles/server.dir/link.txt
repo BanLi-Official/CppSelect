@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/server.dir/server.cpp.o -o /home/banli/Desktop/code/c++/NetSample_Select_by_pthread/output/server  -lpthread 
